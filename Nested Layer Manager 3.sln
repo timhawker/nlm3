@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestedLayerManager", "NestedLayerManager\NestedLayerManager.csproj", "{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectListView2012", "ObjectListView\ObjectListView2012.csproj", "{18FEDA0C-D147-4286-B39A-01204808106A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Max2013|Any CPU = Max2013|Any CPU
+		Max2013Debug|Any CPU = Max2013Debug|Any CPU
+		Max2014|Any CPU = Max2014|Any CPU
+		Max2014Debug|Any CPU = Max2014Debug|Any CPU
+		Max2015|Any CPU = Max2015|Any CPU
+		Max2015Debug|Any CPU = Max2015Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2013|Any CPU.ActiveCfg = Max2013|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2013|Any CPU.Build.0 = Max2013|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2013Debug|Any CPU.ActiveCfg = Max2013Debug|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2013Debug|Any CPU.Build.0 = Max2013Debug|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2014|Any CPU.ActiveCfg = Max2014|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2014|Any CPU.Build.0 = Max2014|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2014Debug|Any CPU.ActiveCfg = Max2014Debug|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2014Debug|Any CPU.Build.0 = Max2014Debug|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2015|Any CPU.ActiveCfg = Max2015|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2015|Any CPU.Build.0 = Max2015|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2015Debug|Any CPU.ActiveCfg = Max2015Debug|Any CPU
+		{B40BA5A4-0FC3-4A54-8EF8-13A0095B2D2E}.Max2015Debug|Any CPU.Build.0 = Max2015Debug|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2013|Any CPU.ActiveCfg = Release|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2013|Any CPU.Build.0 = Release|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2013Debug|Any CPU.ActiveCfg = Max2013Debug|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2013Debug|Any CPU.Build.0 = Max2013Debug|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2014|Any CPU.ActiveCfg = Release|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2014|Any CPU.Build.0 = Release|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2014Debug|Any CPU.ActiveCfg = Max2014Debug|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2014Debug|Any CPU.Build.0 = Max2014Debug|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2015|Any CPU.ActiveCfg = Release|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2015|Any CPU.Build.0 = Release|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2015Debug|Any CPU.ActiveCfg = Max2015Debug|Any CPU
+		{18FEDA0C-D147-4286-B39A-01204808106A}.Max2015Debug|Any CPU.Build.0 = Max2015Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

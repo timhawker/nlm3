@@ -1,0 +1,92 @@
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\NestedLayerManager.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\NestedLayerManager.pdb
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\Autodesk.Max.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ManagedServices.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\MaxCustomControls.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ObjectListView.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\CSharpUtilities.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\UiViewModels.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\DevExpress.XtraEditors.v10.1.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ExplorerFramework.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\DevExpress.XtraTreeList.v10.1.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\DevExpress.Utils.v10.1.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\DevExpress.Data.v10.1.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\MaxMaterialBindings.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\SceneExplorer.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\MaxExplorerBindings.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ObjectListView.pdb
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\Autodesk.Max.xml
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\MaxCustomControls.xml
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\CSharpUtilities.xml
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\UiViewModels.xml
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ExplorerFramework.xml
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\de-DE\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\en-US\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\fr-FR\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ja-JP\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ko-KR\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\zh-CN\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\de-DE\MaxMaterialBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\fr-FR\MaxMaterialBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ja-JP\MaxMaterialBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ko-KR\MaxMaterialBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\zh-CN\MaxMaterialBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\de-DE\SceneExplorer.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\fr-FR\SceneExplorer.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ja-JP\SceneExplorer.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ko-KR\SceneExplorer.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\zh-CN\SceneExplorer.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\de-DE\MaxExplorerBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\fr-FR\MaxExplorerBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ja-JP\MaxExplorerBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\ko-KR\MaxExplorerBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\bin\Release\zh-CN\MaxExplorerBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\obj\Release\Nested Layer Manager 3.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\obj\Release\NestedLayerManager.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager 3\obj\Release\NestedLayerManager.pdb
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\NestedLayerManager.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\NestedLayerManager.pdb
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\Autodesk.Max.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ManagedServices.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\MaxCustomControls.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ObjectListView.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\CSharpUtilities.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\UiViewModels.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\DevExpress.XtraEditors.v10.1.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ExplorerFramework.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\DevExpress.XtraTreeList.v10.1.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\DevExpress.Utils.v10.1.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\DevExpress.Data.v10.1.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\MaxMaterialBindings.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\SceneExplorer.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\MaxExplorerBindings.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ObjectListView.pdb
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\Autodesk.Max.xml
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\MaxCustomControls.xml
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\CSharpUtilities.xml
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\UiViewModels.xml
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ExplorerFramework.xml
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\de-DE\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\en-US\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\fr-FR\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ja-JP\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ko-KR\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\zh-CN\MaxCustomControls.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\de-DE\MaxMaterialBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\fr-FR\MaxMaterialBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ja-JP\MaxMaterialBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ko-KR\MaxMaterialBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\zh-CN\MaxMaterialBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\de-DE\SceneExplorer.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\fr-FR\SceneExplorer.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ja-JP\SceneExplorer.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ko-KR\SceneExplorer.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\zh-CN\SceneExplorer.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\de-DE\MaxExplorerBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\fr-FR\MaxExplorerBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ja-JP\MaxExplorerBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\ko-KR\MaxExplorerBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\bin\Release\zh-CN\MaxExplorerBindings.resources.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\obj\Release\Nested Layer Manager 3.csprojResolveAssemblyReference.cache
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\obj\Release\NestedLayerManager.dll
+C:\Users\Tim\Desktop\Assembly\Nested Layer Manager\obj\Release\NestedLayerManager.pdb

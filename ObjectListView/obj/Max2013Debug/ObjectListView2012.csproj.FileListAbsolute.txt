@@ -1,0 +1,9 @@
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\ObjectListView\bin\Max2013Debug\ObjectListView.dll
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\ObjectListView\bin\Max2013Debug\ObjectListView.pdb
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\ObjectListView\bin\Max2013Debug\ObjectListView.XML
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\ObjectListView\obj\Max2013Debug\BrightIdeasSoftware.Properties.Resources.resources
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\ObjectListView\obj\Max2013Debug\BrightIdeasSoftware.ColumnSelectionForm.resources
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\ObjectListView\obj\Max2013Debug\ObjectListView2012.csproj.GenerateResource.Cache
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\ObjectListView\obj\Max2013Debug\ObjectListView.dll
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\ObjectListView\obj\Max2013Debug\ObjectListView.pdb
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\ObjectListView\obj\Max2013Debug\ObjectListView2012.csprojResolveAssemblyReference.cache

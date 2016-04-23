@@ -1,0 +1,7 @@
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\NestedLayerManager\bin\Test\NestedLayerManager.dll
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\NestedLayerManager\bin\Test\NestedLayerManager.pdb
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\NestedLayerManager\bin\Test\ObjectListView.dll
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\NestedLayerManager\bin\Test\ObjectListView.pdb
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\NestedLayerManager\obj\Test\NestedLayerManager.csprojResolveAssemblyReference.cache
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\NestedLayerManager\obj\Test\NestedLayerManager.dll
+Y:\Personal\Tim\Tools\Nested_Layer_Manager_3\NestedLayerManager\obj\Test\NestedLayerManager.pdb

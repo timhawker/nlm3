@@ -22,10 +22,8 @@ Simply delete both dll files (ObjectListView.dll and NestedLayerManager.dll)
 INFO:
 --------------------------------------
 
-Copyright 2016 Tim Hawker
+Copyright 2016 Tim Hawker.
 Nested Layer Manager 3 is Licensed under MIT license. 
-ObjectListView is licensed under GPLv3, however this conflicts 3ds Max licensing as it is closed source.
-I have chosen, and want to license NLM under the much looser MIT license, and disagree with viral licenses.
-It seems to be a very hipocritical licensing model. Open souce should be open, and not force others to use
-others opinions, and licenses. That in itself is not open.
+ObjectListView is licensed under GPLv3.
+3ds Max is closed source, so I think the viral GPLv3 license may be invalidated here :/
 Any trade names or logos shown are the trademarks of their respective owners.

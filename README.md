@@ -25,5 +25,4 @@ INFO:
 Copyright 2016 Tim Hawker.
 Nested Layer Manager 3 is Licensed under MIT license. 
 ObjectListView is licensed under GPLv3.
-3ds Max is closed source, so I think the viral GPLv3 license may be invalidated here :/
 Any trade names or logos shown are the trademarks of their respective owners.
